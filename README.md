@@ -22,6 +22,7 @@ Je suis actuellement en train de travailler sur la partie Front pour passer les 
 - **Qualité** : structure modulaire, tests unitaires ciblés, CI GitHub Actions  
 - **UX SaaS** : dark theme, tables Material avancées
 - **Observabilité** : logs structurés, gestion d’erreurs front/back (à venir)
+- A venir : Dockerisation de trois applications (angular, .Net, Keycloak) et orchestrastion avec Docker Compose
 
 ---
 
