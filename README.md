@@ -112,12 +112,11 @@ Le projet sert de base pour toute application nécessitant un système d’ident
 - Sécurité : cookies protégés, hashing, anti-forgery, HTTPS/HSTS
 - EF Core : migrations, persistance SQL Server / SQLite
 - Razor Pages : pages d’authentification personnalisables
-- Architecture claire : séparation domaine / services / infrastructure
 - Base réutilisable : idéale pour démarrer une app sécurisée
 
 ## 🛠️ Stack & outils
-- **Langages** : C# .NET 8/10, TypeScript, Angular 17–18, ASP.NET MVC + Razor 
-- **Architecture** : Hexagonal, Clean Architecture, CQRS, modular monolith  
+- **Langages** : C# .NET 8, ASP.NET MVC + Razor 
+- **Architecture** : Clean Architecture, modular monolith  
 - **BDD** : SQL Server
 - **CI/CD** : GitHub Actions, CD progressif  
 - **Observabilité** : logs structurés, métriques, traces (à venir)
