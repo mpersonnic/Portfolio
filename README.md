@@ -63,6 +63,7 @@ L’objectif : permettre un chatbot capable de répondre avec précision sur les
 - **RAG** : recherche dans la base RetroGalerie + génération IA
 - Architecture propre : Domain / Application / Infrastructure / API
 - Endpoints Minimal API
+- A VENIR : Intégration de LangFuse
 
 ---
 
