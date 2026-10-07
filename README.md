@@ -15,6 +15,7 @@ Application SaaS moderne construite en architecture hexagonale, avec un front An
 Je suis actuellement en train de travailler sur la partie Front pour passer les commandes autrement que par Postman.
 
 ### Points clés
+- **Architecture distribuées : Backend .Net, Keycloack, Front Angular 
 - **Architecture hexagonale** : séparation claire domaine / application / infrastructure
 - **CQRS : Mis en place à titre de démonstration
 - **Approche pragmatique** : baby steps, itérations rapides, fonctionnalités livrables  
